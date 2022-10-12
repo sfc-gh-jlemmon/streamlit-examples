@@ -1,0 +1,10 @@
+{
+    "account"   : "ACCOUNTNAME-LOCATOR",
+    "user"      : "USERNAME",
+    "password"  : "PASSWORD",
+    "role"      : "SYSADMIN",
+    "warehouse" : "COMPUTE_WH",
+    "database"  : "SNOWFLAKE",
+    "schema"    : "INFORMATION_SCHEMA"
+  }
+  
